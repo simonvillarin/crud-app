@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simonvillarin.github.io/crud-app/static/css/main.c7ec3132.css",
+    "main.js": "/simonvillarin.github.io/crud-app/static/js/main.1652c8a8.js",
+    "index.html": "/simonvillarin.github.io/crud-app/index.html",
+    "main.c7ec3132.css.map": "/simonvillarin.github.io/crud-app/static/css/main.c7ec3132.css.map",
+    "main.1652c8a8.js.map": "/simonvillarin.github.io/crud-app/static/js/main.1652c8a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.1652c8a8.js"
+  ]
+}
